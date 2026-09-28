@@ -256,9 +256,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CastleAssault.UI.MainMenuController
   _gameSceneName: MainJuego
-  _creditsTextEnglish: 'Programming & art
+  _creditsTextEnglish: 'Programming
 
-    [Your name]
+    Pablo Alvares
+
+    Angelica Quiroz
 
 
     Music & sound effects
@@ -269,7 +271,7 @@ MonoBehaviour:
     Made for the Game Jam
 
     Thanks for playing!'
-  _creditsTextSpanish: "Programaci\xF3n y arte\n[Tu nombre]\n\nM\xFAsica y efectos\nGenerados por c\xF3digo\n\nHecho para la Game Jam\n\xA1Gracias por jugar!"
+  _creditsTextSpanish: "Programaci\xF3n\nPablo Alvares\nAngelica Quiroz\n\n\nM\xFAsica y efectos\nGenerados por c\xF3digo\n\nHecho para la Game Jam\n\xA1Gracias por jugar!"
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
